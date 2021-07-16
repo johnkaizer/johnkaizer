@@ -4,7 +4,6 @@
 ### Hi there 👋
 ## Hi 👋 I am JohnKaiser! However, call me Kaylow.  
 
-<!--
 **johnkaizer/johnkaizer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I am a  fullstack software developer who is passionate about stuff like web applications and mobile app development. Few tech that I enjoy working with are  Java,Javascript,Springboot,  MySQL,Kotlin,Android studio, . Recently, I have just started learning Flutter and Dart.
 
