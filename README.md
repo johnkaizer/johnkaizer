@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👨🏽‍💻 Currently working, learning and growing my skillset in web apps developement, POS Software Developmenta and crossplatform app development, .
-- 🤝 Open for collaborations in software developmemt and mobile app development.
+- 👨🏽‍💻 Currently working, learning and growing my skillset in  POS Software Development, Web Apps Developement and Crossplatform App Development, .
+- 🤝 Open for collaborations in Software Developmemt and Mobile App Development.
 - 😊 Willing to contribute in opensource development projects.
 - 👨 Know more about me at [LinkedIn](https://www.linkedin.com/in/john-kaiser-910692212/) 
