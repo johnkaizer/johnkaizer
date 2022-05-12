@@ -9,7 +9,7 @@ I am a software developer who is passionate about web applications and mobile ap
 - 😊 Willing to contribute in opensource development projects.
 - 👨 Know more about me at [LinkedIn](https://www.linkedin.com/in/john-kaiser-910692212/) 
 
-<img src="https://github.com/johnkaizer/johnkaizer/blob/master/android.png" width="100"/>
+<img src="https://github.com/johnkaizer/johnkaizer/blob/master/" width="100"/>
 
 <br>
 
