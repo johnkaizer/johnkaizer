@@ -2,7 +2,7 @@
 ## Hi 👋 I am John Kaiser  
 
 
-I am a software developer who is passionate about mobile app development and Front-End Development. Few tech that I enjoy working with are Java, Kotlin, Sqlite, Firebase, MongoDb, React, NodeJs and JavaScript. Recently, I have just started learning Flutter and Dart.
+I am a software developer who is passionate about mobile app development and Back-End Development. Few tech that I enjoy working with are Java, Kotlin, Firebase, MongoDb, SpringBoot, NodeJs and JavaScript. Recently, I have just started learning Flutter and Dart.
 
 - 👨🏽‍💻 Currently learning and growing my skillset in Mobile Apps Development and Web Apps Developement.
 - 🤝 Open for collaborations in Software Developmemt.
