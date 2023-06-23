@@ -9,4 +9,11 @@ I am a software engineer who is passionate about mobile app development and Back
 - 😊 Willing to contribute in opensource development projects.
 - 👨 Know more about me at [LinkedIn](https://www.linkedin.com/in/john-kaiser-910692212/) 
 
-
+<center>
+  <table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=johnkaizer&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnkaizer&hide=html&layout=compact&theme=dark" /></td>
+  </tr>   
+</table>
+</center>
