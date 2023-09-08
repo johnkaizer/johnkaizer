@@ -8,6 +8,7 @@ I am a software engineer who is passionate about mobile app development and Back
 - 🤝 Open for collaborations in Software Developmemt.
 - 😊 Willing to contribute in opensource development projects.
 - 👨 Know more about me at [LinkedIn](https://www.linkedin.com/in/john-kaiser-910692212/) 
+- 👨  [Portfolio](https://johnkaizer.github.io/)
 
 <center>
   <table>
