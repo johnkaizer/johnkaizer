@@ -1,20 +1,20 @@
+# Hi there! 👋 I'm John Kaiser
 
-## Hi 👋 I am John Kaiser  
+I'm a software engineer passionate about mobile app development and back-end development. Here are a few technologies I enjoy working with:
 
+- **Languages & Frameworks**: Java, Kotlin, Firebase, MongoDB, Spring Boot, Node.js, JavaScript
+- **Currently Learning**: Flutter, Dart
 
-I am a software engineer passionate about mobile app development and Back-End Development. Few tech that I enjoy working with are Java, Kotlin, Firebase, MongoDb, SpringBoot, NodeJs and JavaScript. Recently, I have just started learning Flutter and Dart.
+### What I'm Up To
+- 👨🏽‍💻 Growing my skillset in mobile and web app development.
+- 🤝 Open to collaborations in software development.
+- 😊 Willing to contribute to open-source projects.
 
-- 👨🏽‍💻 Currently learning and growing my skillset in Mobile Apps Development and Web Apps Developement.
-- 🤝 Open for collaborations in Software Developmemt.
-- 😊 Willing to contribute in opensource development projects.
-- 👨 Know more about me at [LinkedIn](https://www.linkedin.com/in/john-kaiser-910692212/) 
-- 👨  [Portfolio](https://johnkaizer.github.io/)
+### Connect with Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/john-kaiser-910692212/)
+- 💼 [Portfolio](https://johnkaizer.github.io/)
 
-<center>
-  <table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=johnkaizer&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnkaizer&hide=html&layout=compact&theme=dark" /></td>
-  </tr>   
-</table>
-</center>
+### GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnkaizer&hide=html&layout=compact&theme=dark" alt="Top Languages" width="500px"/>
+</div>
