@@ -13,8 +13,3 @@ I'm a software engineer passionate about mobile app development and back-end dev
 ### Connect with Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/john-kaiser-910692212/)
 - 💼 [Portfolio](https://johnkaizer.github.io/)
-
-### GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnkaizer&hide=html&layout=compact&theme=dark" alt="Top Languages" width="500px"/>
-</div>
